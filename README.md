@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fontus-god
 - 👀 I’m interested in finance and DeFi
-- 🌱 I’m currently building fontis.finance
+- 🌱 I’m currently building [fontis.finance](https://fontis.finance)
 
 <!---
 fontus-god/fontus-god is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
